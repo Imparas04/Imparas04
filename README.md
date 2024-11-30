@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Imparas04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 💻 About Me
+👨‍💻 CSE Student | 2nd Year
+🌐 Frontend Developer: Proficient in HTML5, CSS3, and JavaScript.
+📚 Currently learning Python and diving deeper into C++, Data Structures, and Algorithms.
+🎯 Aspiring to become a full-stack developer and explore hacking and backend technologies.
 
-<!---
-Imparas04/Imparas04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Skills
+Programming Languages: C++, JavaScript, Python (learning)
+Tools & Frameworks: VS Code, Git
+Other Interests: Theory of Computation, Algorithm Design
